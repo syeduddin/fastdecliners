@@ -1,3 +1,3 @@
 git add .
-git commit -m "Initial version"
+git commit -m "Latest version"
 git push
